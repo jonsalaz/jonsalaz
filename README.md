@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, my name is Jonathan Salazar 👋
+<h3 align="left">Bridging Arts and Technology
+</h3>
+
+<p align="left">
+I am a dedicated and versatile professional with a background as a Full Stack Software Engineer and a passion for problem solving. 
+I thrive in bridging art and technology to create impactful solutions. With a Bachelor's degree in Computer Science and a minor in Theatre, 
+I bring a unique blend of technical expertise and creative problem-solving skills.
+</p>
 
 <!--
 **jonsalaz/jonsalaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
